@@ -1,4 +1,4 @@
-package com.abel2003.roughiris
+package com.anonymous.roughiris
 
 import android.app.Application
 import android.content.res.Configuration
